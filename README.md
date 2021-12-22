@@ -1,2 +1,3 @@
 # mobile-first
-Proyecto creado con HTML, Css, JavaScript, maquetado con responsive design.
+Proyecto creado con HTML y Css, maquetado con responsive design.
+
